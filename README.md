@@ -1,12 +1,12 @@
 # JTDX-Helper-2.1
-The JTDX-Helper program was developed as macro extension for the JTEX using the Quick-Macros program. Comparing to other FT8-Robot programs, the JTDX-Helper is more “intelligent”, it interprets the received messages of JTDX and acts according to the own pre-programmed QSO strategy. The delivered EXE file contains the licence for Quick-Macros.
+The JTDX-Helper program was developed as macro extension for the JTDX using the Quick-Macros program. Comparing to other FT8-Robot programs, the JTDX-Helper is more “intelligent”, it interprets the received messages of JTDX and acts according to the own pre-programmed QSO strategy. The delivered EXE file contains the licence for Quick-Macros.
 
 Main Features of V2.1:
 - Automatic operation in both "CQ" and "S/P" mode.
 - Automatic find of free frequency in CQ-mode
 - Automatic changes between CQ and S/P mode with programmable intervals, dependng on band activity.
 
-Various strategies in S/P-mode: call stations with:
+Various strategies in S/P-mode, Call stations with:
 - Best Priority acording the JTDX "Notification" settings (clours)
 - Best S/N
 - Only DX
