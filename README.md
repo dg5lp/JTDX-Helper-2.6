@@ -5,12 +5,19 @@ Main Features of V2.1:
 - Automatic changes between CQ and S/P mode with programmable intervals, dependng on band activity.
 - Various strategies in S/P-mode: call stations with
     - Best Priority acording the JTDX "Notification" settings (clours)
+    
     - Best S/N
+    
     - Only DX
+    
     - Prefer-DX
+    
     - Most distance
-    - Prerer Wanted (according to wanted lists) 
+    
+    - Prerer Wanted (according to wanted lists)
+    
     - Only Wanted (according to wanted lists)
+    
     - Exclude stations, präfixes and DXCC-entities according to exclude lists
 - Band-Hopping
     - Programmable on daily basis
