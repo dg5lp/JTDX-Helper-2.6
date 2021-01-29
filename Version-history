@@ -1,6 +1,6 @@
 Version History
 
-v2.1.c (coming soon)
+v2.1.c
 - Incorrect Band-Hopping list when starting B/H was fixed
 - In S/P mode: unsolicited calls are returned on the frequency of the calling station
 - In S/P mode: unsolicited calls on the frequency of the previous QSO are rejected
