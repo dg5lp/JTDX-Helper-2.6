@@ -4,6 +4,7 @@ v2.1.c
 - Incorrect Band-Hopping list when starting B/H was fixed
 - In S/P mode: unsolicited calls are returned on the frequency of the calling station
 - In S/P mode: unsolicited calls on the frequency of the previous QSO are rejected
+- DX distance specificataion works correct both in Km and Miles.
 - New feature: QSO counter, counts QSOs of the current session and total. e.g. 5/20
 
 v2.1.b
