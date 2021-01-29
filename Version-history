@@ -13,8 +13,17 @@ v2.1.b
 
 v.2.1
 - Generated from common soouce code for WSJT-X and JTDX
+- Lag time is displayed
+- Skip Tx-1 allows to call with report instead of QRQ-grid.
 
 v.2.0
 - Comfortable parameter settng was implemented
-- Enhanced Band-Hopping allowing F8 and FT4 in one session
-- Lag time is displayed
+- No need of ownloc.txt. The configuration is stored in "config.txt".
+- Enhanced Band-Hopping allowing to select F8 and FT8 in one session
+- Enhanced QSO strategy: Best-S/N, Prefer-DX, DX-Onl, Prefer-Wanted, Only-Wanted
+- Various "wanted" and "exclude" lists
+- Graceful sotp of "CQ", "S/P" and "Band-Hopping" sessions
+- Direct change between S/P and CQ modes.
+- The helper program uses its own auto-sequencing
+
+v.1.7 stable version 2020
