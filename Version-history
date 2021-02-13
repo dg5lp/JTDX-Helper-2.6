@@ -4,8 +4,7 @@ v2.1.d
 New feature:
 - During a QSO the "Filter" function of JTDX is activated (except in "Best-S/N" strategy).
 
-Bugfixes:
-- WSJT-X works with "default" configuration. (No FT-mode mismatch issue)
+Bugfix:
 - Bug in "Wanted list" was fixed
 
 v2.1.c
