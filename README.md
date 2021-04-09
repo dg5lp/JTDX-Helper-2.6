@@ -1,4 +1,4 @@
-# JTDX-Helper-2.1.d
+# JTDX-Helper-2.1.e
 The JTDX-Helper program was developed as macro extension for the JTDX using the Quick-Macros program. Comparing to other FT8-Robot programs, the JTDX-Helper is more “intelligent”, it interprets the received messages of JTDX and acts according to the own pre-programmed QSO strategy. The delivered EXE file contains the licence for Quick-Macros.
 
 Main Features of V2.1:
