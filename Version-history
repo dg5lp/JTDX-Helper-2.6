@@ -1,5 +1,9 @@
 Version History
 
+v1.2.e
+ When calling CQ and two station answers, the second station will be called back at the end of the QSO.
+- Stations calling during a QSO will be called back at the end of the QSO.
+
 v2.1.d
 New feature:
 - During a QSO the "Filter" function of JTDX is activated (except in "Best-S/N" strategy).
