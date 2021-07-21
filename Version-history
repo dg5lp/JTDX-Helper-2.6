@@ -1,6 +1,9 @@
 Version History
 
-v1.2.e
+v2.3
+ Opens the QRZ.com page of the QSO partner station
+ 
+v2.2.e
  When calling CQ and two station answers, the second station will be called back at the end of the QSO.
 - Stations calling during a QSO will be called back at the end of the QSO.
 
