@@ -1,5 +1,10 @@
 # JTDX-Helper-2.5
 
+Important note!
+
+When downloading the exe file, virus-alarm might occur. This is a false alarm. The FT8-Helper software use macro commands. Most virus checker cannot distinguish harmless and harmful macros, althought they are not encrypted. Upload and check the software to virustotal.com. You can trust the software. Another issue: The dxcc_qra.txt can be downloaded via copy-paste to a notepad, or together with the exe in the ZIP-file.
+
+
 JTDX-Helper-2.5.2: Similar to 2.5.1, but works  with the 64-bit version of JTDX_2.2-159.
 
 JTDX-Helper-2.5.1: Bugfix. Problems with long callsigns fixed. Not working with 32-bit version of JTDX-2.2.159.
