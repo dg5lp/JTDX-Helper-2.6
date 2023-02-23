@@ -4,6 +4,15 @@ Important note!
 
 When downloading the exe file, virus-alarm might occur. This is a false alarm. The FT8-Helper software use macro commands. Most virus checker cannot distinguish harmless and harmful macros, althought they are not encrypted. Upload and check the software to virustotal.com. You can trust the software. Another issue: The dxcc_qra.txt can be downloaded via copy-paste to a notepad, or together with the exe in the ZIP-file.
 
+JTDX-Helper-2.6.4: Beta version with some new features. ith JTDX v2.2.159 64-bit and v2.2.160 32-bit version 
+- CQ+SP was re-named to "MIX". MIX-mode starts pressing both Start-CQ and Start-SP in any sewuence.
+- Start-CQ and START-SP are toggle buttons. "Halt" stops both.
+- MIX and MIX+ are available for Band-Hopping. MIX+ starts 73=CQ.
+- in XCHG mode, e.g. if in CQ-Mode, pressing the S/P-button changes to S/P without interruption.
+- After executing mouse-macro commands the mouse-pointer jumbs back to the previous position.
+- The queue of postponed stations can be deleted by pressing  the "Clear-Postp." button.
+- No dxcc_qra.txt file required any more. It is now integrated in the software.
+
 JTDX-Helper-2.6.1: Similar to prevous versions, but works with JTDX_2.2.160 64-bit version. (2.6.0 was an invalid version)
 
 JTDX-Helper-2.5.2: Similar to 2.5.1, but works  with the 64-bit version of JTDX_2.2-159.
